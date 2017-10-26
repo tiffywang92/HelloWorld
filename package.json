@@ -13,7 +13,7 @@
     "express": "~4.15.5",
     "morgan": "~1.9.0",
     "serve-favicon": "~2.4.5",
-    "entry-point": "HelloWorld.js"
+    "entry point": "HelloWorld.js"
   },
   "description": "A simple text program",
   "main": "app.js",
