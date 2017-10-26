@@ -15,7 +15,7 @@
     "serve-favicon": "~2.4.5"
   },
   "description": "A simple text program",
-  "main": "app.js",
+  "main": "HelloWorld.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
